@@ -2,7 +2,7 @@
 - 👀 I’m interested in dancing, coding, swimming, reading etc.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web devolopment, Discord bots, AI...
-- - 📫 How to reach me: zeynepsuedaaltekin@gmail.com
+- 📫 How to reach me: zeynepsuedaaltekin@gmail.com
 - ⚡ Fun fact: I am afraid of bugs and insects a lot LOL
 
 <!---
